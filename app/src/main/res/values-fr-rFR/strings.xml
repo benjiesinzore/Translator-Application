@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translate You</string>
+    <!-- Dialog -->
+    <string name="okay">D\'accord</string>
+    <string name="cancel">Annuler</string>
+    <!-- Text -->
+    <string name="enter_text">Saisir du texte</string>
+    <string name="paste">Coller</string>
+    <string name="copy">Copier</string>
+    <string name="auto">Auto</string>
+    <string name="forget">Oublier</string>
+    <!-- Settings -->
+    <string name="instance">Instance</string>
+    <string name="api_key">Clé API</string>
+    <string name="options">Paramètres</string>
+    <string name="history">Historique</string>
+    <string name="about">À propos</string>
+    <string name="history_enabled">Historique activé</string>
+    <string name="fetch_delay">Délai de traduction</string>
+    <string name="fetch_delay_summary">Délai entre l\'insertion du texte et la récupération de la traduction</string>
+    <string name="history_summary">Gardez une trace des derniers textes traduits</string>
+    <string name="required">Obligatoire</string>
+    <string name="optional">Optionnel</string>
+    <string name="additional_info">Informations complémentaires</string>
+    <string name="additional_info_summary">Afficher des données supplémentaires sur la traduction si elles sont disponibles.</string>
+    <!-- About -->
+    <string name="github" translatable="false">GitHub</string>
+    <string name="author">Auteur</string>
+    <string name="license">Licence</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <!-- Theme -->
+    <string name="theme_auto">Identique au système</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+    <!-- History -->
+    <string name="clear_history">Nettoyer l\'historique</string>
+    <string name="open">Ouvrir</string>
+    <!-- Exception -->
+    <string name="server_error">Erreur lors de la communication avec le serveur.</string>
+    <string name="language_not_supported">La langue n\'est pas prise en charge !</string>
+    <string name="compact_history">Historique compact</string>
+    <string name="compact_history_summary">N\'affiche par défaut que les 3 premières lignes de texte dans l\'historique</string>
+    <string name="simultaneous_translation">Traductions simultanées</string>
+    <string name="enabled_engines">Moteurs activés</string>
+    <string name="simultaneous_translation_summary">Récupérez les résultats de plusieurs moteurs de traductions en même temps.</string>
+    <string name="enabled_engines_summary">Moteurs à utiliser pour la traduction simultanée.</string>
+    <string name="selected_engine">Moteur sélectionné</string>
+    <string name="st_selected_engine">Moteur utilisé par SimplyTranslate pour la traduction</string>
+    <string name="detected_language">Langue détectée</string>
+    <string name="definition">Définition</string>
+    <string name="example">Exemple</string>
+    <string name="similar">Similaire</string>
+    <string name="missing_api_key">Veuillez fournir une clé API dans les paramètres.</string>
+    <string name="general">Général</string>
+    <string name="search">Rechercher</string>
+    <string name="translation">Traduction</string>
+    <string name="app_language">Langue de l\'application</string>
+    <string name="system">Système</string>
+    <string name="character_warning_limit">Limite d\'avertissement de caractères</string>
+    <string name="character_warning_limit_summary">Avertir lorsque le texte traduit dépasse la longueur maximale.</string>
+    <string name="none">Aucun</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="transliteration">Translittération</string>
+    <string name="image_translation">Traduction de l\'image</string>
+    <string name="image_translation_summary">Téléchargez et appliquez des langues pour la reconnaissance de texte à partir d\'images.</string>
+    <string name="init_tess_first">Veuillez d\'abord télécharger les données linguistiques dans les paramètres.</string>
+    <string name="select_language">Veuillez sélectionner une langue pour la reconnaissance du texte des images dans les paramètres.</string>
+    <string name="translate">Traduire</string>
+    <string name="translate_automatically">Traduire automatiquement</string>
+    <string name="translate_automatically_summary">Demander une traduction après un certain délai.</string>
+    <string name="nothing_here">Rien ici.</string>
+    <string name="translate_to">Traduire en</string>
+    <string name="translate_from">Traduire de</string>
+    <string name="accent_color">Couleur d\'accent</string>
+    <string name="dynamic_colors">Couleurs dynamiques</string>
+    <string name="favorites">Favoris</string>
+    <string name="all_languages">Toutes les langues</string>
+    <string name="use_free_api_summary">Utilisez l\'API gratuite au lieu de l\'API Pro payante.</string>
+    <string name="use_free_api">Utiliser une API gratuite</string>
+</resources>
